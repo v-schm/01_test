@@ -1,3 +1,3 @@
-#Test-Projekt
-##Erste Schritte mit 'git'
+# Test-Projekt
+## Erste Schritte mit 'git'
 Hallo Git in Java erzeugen
